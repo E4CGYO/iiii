@@ -9,7 +9,7 @@
         <div class="post">
             <h2>{{ $post['title'] }}</h2>
             <p>{{ $post['content'] }}</p>
-            <a href="/post/{{ $post['id'] }}">Read More →</a>
+            <a href="/post/{{ $post['id'] }}">Read Moreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee oftennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn →</a>
         </div>
     @endforeach
     <h3> total post yang ada disini: {{ $totalposts }}</h3>
